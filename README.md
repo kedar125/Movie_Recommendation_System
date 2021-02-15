@@ -1,4 +1,4 @@
-#Movie Recommendation using Machine Learning
+## Movie Recommendation using Machine Learning
 
 Movie recommendation using Machine Learning Mini Project Submitted in fulfillment of the Course On Machine Learning In Python By Kedar Kharde, Shreyas Udupa, Kunal Kotkar, Sanket Jangale Under the guidance of GURVANSH SINGH, MTech
 
